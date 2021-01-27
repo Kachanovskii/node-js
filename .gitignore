@@ -1,2 +1,4 @@
 node_modules
 package-lock.json
+hw/node_modules
+hw/package-lock.json
